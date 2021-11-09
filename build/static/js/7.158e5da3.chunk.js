@@ -1,0 +1,2 @@
+(this["webpackJsonpquote-app"]=this["webpackJsonpquote-app"]||[]).push([[7],{53:function(e,t,n){"use strict";n.r(t);var c=n(1);t.default=function(){return Object(c.jsx)("div",{className:"centered",children:Object(c.jsx)("p",{children:"Page not found!"})})}}}]);
+//# sourceMappingURL=7.158e5da3.chunk.js.map

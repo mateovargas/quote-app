@@ -10,7 +10,7 @@ const AllQuotes = () => {
     useEffect(() => {
         sendRequest();
     }, [sendRequest]);
-
+    console.log("status: ", status);
     if(status === 'pending'){
         return(
             <div className="centered">
